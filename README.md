@@ -1,14 +1,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img alt="Simran Kirtania banner" src="banner.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
+  <img alt="Simran Kirtania banner" src="banner.svg?v=2" width="100%">
 </picture>
-
-<img src="lanyard.svg?v=1" alt="Simran Kirtania ID badge" width="220">
-
-<br clear="both">
 
 ### Analyst · Turning raw numbers into clear, decision-ready stories
 
@@ -26,6 +22,50 @@
 
 <br>
 
+<table>
+<tr>
+<td width="240" valign="middle" align="center">
+
+<img src="lanyard.svg?v=2" alt="Simran Kirtania ID badge" width="220">
+
+</td>
+<td width="20"></td>
+<td valign="middle">
+
+<h3>📌 Featured Projects</h3>
+
+<p>
+<a href="https://github.com/simrankirtania/Airbnb-Market-Analysis"><b>Airbnb-Market-Analysis</b></a>
+<img src="https://img.shields.io/badge/-Public-30363d?style=flat-square" alt="Public">
+<br>End-to-end Business Intelligence project leveraging Excel, SQL, DAX, and Power BI to analyze Airbnb marketplace performance through interactive executive dashboards and actionable insights.
+<br>🟠 Jupyter Notebook
+</p>
+
+<p>
+<a href="https://github.com/simrankirtania/Hospital-ER-Analysis"><b>Hospital-ER-Analysis</b></a>
+<img src="https://img.shields.io/badge/-Public-30363d?style=flat-square" alt="Public">
+<br>End-to-end Hospital ER analytics project using Power BI, SQL, Python, and Excel to uncover operational insights, test patterns, forecast demand, and improve staffing decisions.
+<br>🟠 Jupyter Notebook
+</p>
+
+<p>
+<a href="https://github.com/simrankirtania/bank-loan-analytics"><b>bank-loan-analytics</b></a>
+<img src="https://img.shields.io/badge/-Public-30363d?style=flat-square" alt="Public">
+<br>End-to-end bank loan risk analytics project using Excel, SQL Server, Python, and Power BI to analyze portfolio performance and predict default risk.
+<br>🟠 Jupyter Notebook
+</p>
+
+<p>
+<a href="https://github.com/simrankirtania/logistics_dashboard"><b>logistics_dashboard</b></a>
+<img src="https://img.shields.io/badge/-Public-30363d?style=flat-square" alt="Public">
+<br>Power BI dashboard for logistics analytics, delivering insights into delivery performance, hub efficiency, driver productivity, and fleet utilization.
+<br>🟠 Jupyter Notebook
+</p>
+
+</td>
+</tr>
+</table>
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -36,6 +76,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GenAI Tools](https://img.shields.io/badge/GenAI_Tools-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -43,39 +85,23 @@
 
 - 📊 I turn spreadsheets, queries, and dashboards into stories people actually act on
 - 🧮 Daily tools: **Excel**, **SQL**, **Python**, **Power BI**
-- 📑 I also build the decks and docs that carry the story to stakeholders — **PowerPoint** & **Word**
+- 📑 I also build the decks and docs that carry the story to stakeholders — **PowerPoint**, **Word** & **Canva**
+- 🤖 Exploring **GenAI tools** to speed up analysis and reporting
 - 🌱 Always learning, always building, always caffeinated
 - 💬 Ask me about data cleaning, dashboarding, or how to make a spreadsheet behave
 
-## 📌 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Sales Performance Dashboard** | Interactive Power BI dashboard tracking regional sales, targets, and YoY growth | Power BI · SQL · DAX |
-| **Customer Churn Analysis** | Predictive analysis identifying at-risk customers from behavioral data | Python · Pandas · scikit-learn |
-| **Automated Reporting Suite** | VBA/Python pipeline that turns raw exports into ready-to-send Excel reports | Excel · VBA · Python |
-| **Marketing Spend Optimizer** | SQL + Excel model analyzing channel ROI to reallocate marketing budget | SQL · Excel |
-| **Executive Deck Generator** | Template-driven PowerPoint generator for recurring stakeholder reviews | Python · PowerPoint |
-
-<div align="center"><sub>Update this table any time with your real repos — swap in the actual links.</sub></div>
-
-## 📈 GitHub Stats
+## 🈺 Languages
 
 <div align="center">
-<img src="stats.svg?v=1" alt="Simran's GitHub stats" width="48%">
-<img src="langs.svg?v=1" alt="Simran's most used languages" width="48%">
-</div>
-
-<div align="center">
-<img src="trophies.svg?v=1" alt="Simran's GitHub trophies" width="96%">
+<img src="langs.svg?v=2" alt="Simran's most used languages" width="70%">
 </div>
 
 ## 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simrankirtania/simrankirtania/output/github-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simrankirtania/simrankirtania/output/github-snake-light.gif?v=1">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/simrankirtania/simrankirtania/output/github-snake.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simrankirtania/simrankirtania/output/github-snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simrankirtania/simrankirtania/output/github-snake-light.gif?v=2">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/simrankirtania/simrankirtania/output/github-snake.svg?v=2" width="100%">
 </picture>
 
 <div align="center"><sub>Generated daily by <code>.github/workflows/github-snake.yml</code> from this profile's real contribution graph.</sub></div>
