@@ -90,10 +90,10 @@
 - 🌱 Always learning, always building, always caffeinated
 - 💬 Ask me about data cleaning, dashboarding, or how to make a spreadsheet behave
 
-## 🈺 Languages
+## 🧩 Tools & Technologies
 
 <div align="center">
-<img src="langs.svg?v=2" alt="Simran's most used languages" width="70%">
+<img src="langs.svg?v=3" alt="Simran's tools and technologies used" width="70%">
 </div>
 
 ## 🐍 Contribution Activity
