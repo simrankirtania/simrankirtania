@@ -66,21 +66,6 @@
 </tr>
 </table>
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MS PowerPoint](https://img.shields.io/badge/MS_PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![MS Word](https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![GenAI Tools](https://img.shields.io/badge/GenAI_Tools-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
 ## 👩‍💻 About Me
 
 - 📊 I turn spreadsheets, queries, and dashboards into stories people actually act on
