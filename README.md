@@ -49,16 +49,16 @@
 </p>
 
 <p>
-<a href="https://github.com/simrankirtania/bank-loan-analytics"><b>bank-loan-analytics</b></a>
+<a href="https://github.com/simrankirtania/SwiftRoute-Analytics-Pipeline"><b>SwiftRoute-Analytics-Pipeline</b></a>
 <img src="https://img.shields.io/badge/-Public-30363d?style=flat-square" alt="Public">
-<br>End-to-end bank loan risk analytics project using Excel, SQL Server, Python, and Power BI to analyze portfolio performance and predict default risk.
+<br>End-to-end logistics analytics pipeline (Excel → SQL/SQLite → Python → Power BI) analyzing 28K+ orders to uncover delivery, fleet, and workforce insights for SwiftRoute Logistics.
 <br>🟠 Jupyter Notebook
 </p>
 
 <p>
-<a href="https://github.com/simrankirtania/logistics_dashboard"><b>logistics_dashboard</b></a>
+<a href="https://github.com/simrankirtania/bank-loan-analytics"><b>bank-loan-analytics</b></a>
 <img src="https://img.shields.io/badge/-Public-30363d?style=flat-square" alt="Public">
-<br>Power BI dashboard for logistics analytics, delivering insights into delivery performance, hub efficiency, driver productivity, and fleet utilization.
+<br>End-to-end bank loan risk analytics project using Excel, SQL Server, Python, and Power BI to analyze portfolio performance and predict default risk.
 <br>🟠 Jupyter Notebook
 </p>
 
