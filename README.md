@@ -37,7 +37,7 @@
 <p>
 <a href="https://github.com/simrankirtania/Airbnb-Market-Analysis"><b>Airbnb-Market-Analysis</b></a>
 <img src="https://img.shields.io/badge/-Public-30363d?style=flat-square" alt="Public">
-<br>End-to-end Business Intelligence project leveraging Excel, SQL, DAX, and Power BI to analyze Airbnb marketplace performance through interactive executive dashboards and actionable insights.
+<br>End-to-end analysis of 279K+ listings, 182K+ hosts, and 5.37M+ reviews across 10 cities using Excel, SQL, Python, and Power BI to uncover pricing opportunities, host performance drivers, demand patterns, data-quality risks, and marketplace health insights.
 <br>🟠 Jupyter Notebook
 </p>
 
